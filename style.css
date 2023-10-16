@@ -28,12 +28,14 @@ td, th{
 th{
     color: rgb(73,82,188);
     border: none;
+    padding-inline: 0.8rem
 }
 
 
 
 tbody tr:nth-of-type(2n + 1) {
     background-color: rgb(66,66,142);
+    border: 2px solid green;
 }
 
 tbody tr:nth-of-type( 1) {
