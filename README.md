@@ -3,4 +3,5 @@ Table-2
 
 
 
-![screenshot (2)](https://github.com/hailyehzombie/Table-2/assets/116345254/ed5a632d-4ffd-4151-a9bf-1207534e6f57)
+
+![tabel-screenshot](https://github.com/hailyehzombie/Table-2/assets/116345254/98cad6ed-7e7d-4bf2-ab7b-6969d1a1d2db)
