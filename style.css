@@ -28,14 +28,16 @@ td, th{
 th{
     color: rgb(73,82,188);
     border: none;
-    padding-inline: 0.8rem;
+    padding: 1rem 0;
+    padding-left: 0.5rem;
+    text-align: left;
 }
 
 
 
 tbody tr:nth-of-type(2n + 1) {
     background-color: rgb(66,66,142);
-    border: 2px solid green;
+    
 }
 
 tbody tr:nth-of-type( 1) {
@@ -67,6 +69,7 @@ tr td{
 .grey :last-child{
     background-color: rgb(248,248,22);
     color: black;
+    border: 2px solid green;
 }
 
 
@@ -76,4 +79,3 @@ img{
     height: 800px;
     display: block;
 }
-
